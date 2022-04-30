@@ -1,0 +1,24 @@
+{
+  "name": "social-network-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joalbeva/18socialnetworkapi"
+  },
+  "author": "joalbeva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joalbeva/18socialnetworkapi"
+  },
+  "homepage": "https://github.com/joalbeva/18socialnetworkapi",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4"
+  }
+}
